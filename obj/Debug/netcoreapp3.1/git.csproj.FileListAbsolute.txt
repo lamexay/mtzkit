@@ -1,0 +1,5 @@
+D:\forgithub\git\obj\Debug\netcoreapp3.1\git.csproj.AssemblyReference.cache
+D:\forgithub\git\obj\Debug\netcoreapp3.1\git.GeneratedMSBuildEditorConfig.editorconfig
+D:\forgithub\git\obj\Debug\netcoreapp3.1\git.AssemblyInfoInputs.cache
+D:\forgithub\git\obj\Debug\netcoreapp3.1\git.AssemblyInfo.cs
+D:\forgithub\git\obj\Debug\netcoreapp3.1\git.csproj.CoreCompileInputs.cache
